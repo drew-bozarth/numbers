@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Drew Bozarth 
+2. Student ID: 2373658
+3. Email: dbozarth@chapman.edu
+4. Class: CPSC 298-03
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,9 +16,9 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
-
+N/A
 ## References
-
+N/A
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
