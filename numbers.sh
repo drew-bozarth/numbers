@@ -12,5 +12,5 @@ do
 	else
 		echo "$N is Odd"
 	fi
-	N=$[$N+1]
+	N=$(($N+1))
 done	
