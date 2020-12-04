@@ -7,10 +7,10 @@ N=1
 while [ "$N" -le "$X" ]
 do
 	if [ $((N%2)) -eq 0 ]
-		then
-			echo "$N is Even"
+	then
+		echo "$N is Even"
 	else
 		echo "$N is Odd"
 	fi
-	N=$(($N+1))
+	N=$((N+1))
 done	
